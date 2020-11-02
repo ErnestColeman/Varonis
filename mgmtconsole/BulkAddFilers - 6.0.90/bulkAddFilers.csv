@@ -1,0 +1,2 @@
+filerType,hostname,filewalkUser,filewalkPW,agentUser,agentPW,databaseServerUser,databaseServerPW,databaseUser,databasePW,databaseCredType,probeID,collector,collectorUser,CollectorPW,WinAgent,collectEvents,FilewalkAgent,FilewalkMethod
+windows,winsrv1,domain\user,password1,domain\user,password1,domain\user,password1,sa,password1,SQL,1,VARCOL01,domain\user,password1,x,x,x,Varonis

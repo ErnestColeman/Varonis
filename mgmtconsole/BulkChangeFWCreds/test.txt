@@ -1,0 +1,2 @@
+hostname	FWUser	FWPassword
+jtwin	jt\varonis	password1

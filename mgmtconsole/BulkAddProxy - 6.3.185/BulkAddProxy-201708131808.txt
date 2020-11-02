@@ -1,0 +1,29 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20170813181919
+Username: JT\jonathan
+RunAs User: JT\jonathan
+Machine: IDU63 (Microsoft Windows NT 10.0.14393.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe
+Process ID: 6152
+PSVersion: 5.1.14393.1480
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.14393.1480
+BuildVersion: 10.0.14393.1480
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is E:\Scripts\BulkAddProxy\BulkAddProxy-201708131808.txt
+Connection Succeed
+[1/2]: Adding col1 as ProxyAdEventLogRpc
+[2/2]: Adding dc1 as ProxyAdEventLogRpc
+--------------------
+Disconnecting from IDU
+IDU disconnected
+Complete - Check the Management Console for file server status
+**********************
+Windows PowerShell transcript end
+End time: 20170813181923
+**********************

@@ -1,0 +1,7 @@
+Hostname,FilerType,OS,Status,CollectorName,EventCollection,EventAgent,FilewalkAgent
+DC1,Windows,Microsoft Windows 2012 R2,UP,N/A,FALSE,N/A,N/A
+DC2,Windows,Microsoft Windows 2012 R2,UP,N/A,FALSE,N/A,N/A
+DC3,Windows,Microsoft Windows 2012 R2,UP,N/A,FALSE,N/A,N/A
+DC4,Windows,Microsoft Windows 2012 R2,UP,N/A,FALSE,N/A,N/A
+DC5,Windows,Microsoft Windows 2012 R2,UP,N/A,FALSE,N/A,N/A
+DC6,Windows,Microsoft Windows 2012 R2,UP,N/A,FALSE,N/A,N/A

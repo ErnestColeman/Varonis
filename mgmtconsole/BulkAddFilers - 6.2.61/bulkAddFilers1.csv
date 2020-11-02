@@ -1,0 +1,2 @@
+filerType,hostname,filewalkUser,filewalkPW,agentUser,agentPW,databaseServerUser,databaseServerPW,databaseUser,databasePW,databaseCredType,probeID,collector,collectorUser,CollectorPW,EventAgent,EventCollection,FilewalkAgent,autoDetectShares,LocalAccountsInfo,FileAccessDeniedEvents,FolderAccessDeniedEvents,SaveFSPropertyHistory,unixDomain
+windows,fs01,domain\varonis,password1,domain\varonis,password1,domain\varonis,password1,domain\varonis,password1,Windows,1,name of collector as it appears in the MC,domain\varonis,password1,x,x,x,DetectAndNotify,x,x,,x,

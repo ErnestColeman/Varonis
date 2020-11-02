@@ -1,0 +1,4 @@
+Component,Hostname,Username,Password
+adwalk,jt2.com,jt2\varonis,password1
+collector,col2,jt2\varonis,password1
+fileserver,app1,jt2\varonis,password1

@@ -1,0 +1,2 @@
+filerType,hostname,filewalkUser,filewalkPW,agentUser,agentPW,databaseServerUser,databaseServerPW,databaseUser,databasePW,databaseCredType,probeID,collector,collectorUser,CollectorPW,EventAgent,collectEvents,FilewalkAgent,autoDetectShares,LocalAccountsInfo,FileAccessDeniedEvents,FolderAccessDeniedEvents,SaveFSPropertyHistory,unixDomain
+windows,IDU62,jt\varonis,password1,jt\varonis,password1,jt\varonis,password1,sa,password1,SQL,1,,,,x,x,x,DetectAndNotify,x,x,,x,

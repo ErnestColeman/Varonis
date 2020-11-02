@@ -1,0 +1,2 @@
+filerType,hostname,filewalkUser,filewalkPW,agentUser,agentPW,databaseServerUser,databaseServerPW,databaseUser,databasePW,databaseCredType,probeID,collector,collectorUser,CollectorPW,EventAgent,collectEvents,FilewalkAgent,autoDetectShares,LocalAccountsInfo,FileAccessDeniedEvents,FolderAccessDeniedEvents,SaveFSPropertyHistory,unixDomain
+unix,10.0.0.100,root,Apr1l%89,root,Apr1l%89,ad\juiceton,password1,ad\juiceton,password1,SQL,1,,,,x,x,x,DetectAndNotify,x,x,,x,

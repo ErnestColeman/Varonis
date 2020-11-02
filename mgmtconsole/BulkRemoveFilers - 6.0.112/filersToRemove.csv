@@ -1,0 +1,4 @@
+Hostname,filerType,RemoveAgent,AgentUser,AgentPW
+app1,windows,x,jt2\varonis,password1
+suse113,unix,x,root,password1
+ubuntu1404,unix,,jonathan,password1
