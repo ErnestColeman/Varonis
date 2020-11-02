@@ -1,0 +1,2 @@
+    Compress-Archive -Path "$($FinalPath)\*" -CompressionLevel Optimal -DestinationPath "$($FinalPath)\$($env:computername)_VarLogs" Remove-Item "$($FinalPath)\*.evtx"
+"Logs Zipped!"

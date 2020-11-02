@@ -1,0 +1,9 @@
+Purpose
+Match an XML key, usually for purposes of replacing it with another value.
+
+Regex
+<add key="DCF_Monitor_DiagnosticMode" value=".*\/>
+
+Example Matches
+<add key="DCF_Monitor_DiagnosticMode" value="True" />
+<add key="DCF_Monitor_DiagnosticMode" value="" />

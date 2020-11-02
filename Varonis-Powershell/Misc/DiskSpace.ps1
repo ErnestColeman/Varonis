@@ -1,0 +1,1 @@
+Get-ChildItem -Force | Add-Member -Force -Passthru -Type ScriptProperty -Name Length -Value {Get-ChildItem $this -Recurse -Force | Measure-Object -Sum Length | Select-Object -Expand Sum } | Sort-Object Length -Descending | Format-Table @{label="TotalSize (MB)";expression={[Math]::Truncate($_.Length / 1MB)};width=14}, @{label="Mode";expression={$_.Mode};width=8}, Name
